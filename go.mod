@@ -7,7 +7,7 @@ require (
 	cloud.google.com/go/kms v1.12.1
 	github.com/GoogleCloudPlatform/k8s-cloud-provider v1.24.0
 	github.com/container-storage-interface/spec v1.6.0
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.6.0
 	github.com/kubernetes-csi/csi-proxy/client v1.1.1
 	github.com/kubernetes-csi/csi-test/v4 v4.4.0
 	github.com/onsi/ginkgo/v2 v2.7.1
