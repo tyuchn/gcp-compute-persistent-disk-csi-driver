@@ -19,13 +19,13 @@ require (
 	google.golang.org/grpc v1.56.2
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/gcfg.v1 v1.2.3
-	k8s.io/api v0.24.1
-	k8s.io/apimachinery v0.24.1
-	k8s.io/client-go v11.0.1-0.20190805182717-6502b5e7b1b5+incompatible
-	k8s.io/cloud-provider v0.24.1
-	k8s.io/component-base v0.24.1
+	k8s.io/api v0.31.2
+	k8s.io/apimachinery v0.31.2
+	k8s.io/client-go c5146a9031d2
+	k8s.io/cloud-provider v0.31.2
+	k8s.io/component-base v0.31.2
 	k8s.io/klog/v2 v2.90.1
-	k8s.io/mount-utils v0.27.0-alpha.3
+	k8s.io/mount-utils v0.31.2
 	k8s.io/utils v0.0.0-20230209194617-a36077c30491
 	sigs.k8s.io/boskos v0.0.0-20220711194915-6cb8a6fb2dd1
 )
@@ -97,4 +97,4 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
 
-replace k8s.io/client-go => k8s.io/client-go v0.24.1
+replace k8s.io/client-go => k8s.io/client-go v0.31.2
