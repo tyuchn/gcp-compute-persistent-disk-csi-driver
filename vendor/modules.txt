@@ -766,8 +766,8 @@ k8s.io/test-infra/prow/config/secret
 k8s.io/test-infra/prow/logrusutil
 k8s.io/test-infra/prow/secretutil
 k8s.io/test-infra/prow/version
-# k8s.io/utils v0.0.0-20230209194617-a36077c30491
-## explicit; go 1.18
+# k8s.io/utils v0.0.0-20260707023825-cf1189d6abe3
+## explicit; go 1.25
 k8s.io/utils/clock
 k8s.io/utils/clock/testing
 k8s.io/utils/exec
