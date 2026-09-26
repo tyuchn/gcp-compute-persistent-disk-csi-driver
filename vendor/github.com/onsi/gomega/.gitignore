@@ -3,4 +3,6 @@
 .
 .idea
 gomega.iml
-TODO.md
+TODO
+.vscode
+/.release/
